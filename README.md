@@ -1,10 +1,10 @@
-# 📌 Project Overview
+# Project Overview
 
 This repository contains the complete code and final report for my ST3189 Machine Learning coursework. The project consists of three major machine learning tasks—Unsupervised Learning, Regression, and Classification—each executed on separate real-world datasets sourced from Kaggle and the UCI Machine Learning Repository. The aim was to perform end-to-end data analysis and model development to answer practical research questions with strong interpretability and actionable insight.
 
 ---
 
-# 🧠 Project Structure
+# Project Structure
 
 ### 1. Unsupervised Learning: Customer Segmentation  
 - **Dataset:** [Customer Personality Analysis (Kaggle)](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)  
